@@ -21,4 +21,4 @@ window.config(menu=menu) # 메뉴를 창에다 추가한다!
 window.mainloop()
 
 
-# test
+# 1
